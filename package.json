@@ -1,5 +1,5 @@
 {
-  "name": "node-gyp",
+  "name": "@jovercao/node-gyp",
   "description": "Node.js native addon build tool",
   "license": "MIT",
   "keywords": [
